@@ -28,8 +28,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='
-https://s1.gifyu.com/images/ezgif.com-gif-maker-2c410bb2f0f646e88.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://s1.gifyu.com/images/ezgif.com-gif-maker-2c410bb2f0f646e88.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 ## Notes
 
